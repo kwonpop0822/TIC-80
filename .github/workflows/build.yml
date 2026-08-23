@@ -594,3 +594,4 @@ jobs:
           name: "tic80-html"
           path: |
             build/bin/*
+
